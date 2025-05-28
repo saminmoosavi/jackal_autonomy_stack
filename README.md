@@ -1,4 +1,4 @@
-## To drive the jackal autonomusly, run 
+## To drive the jackal autonomously, run 
 ```bash
 rostopic pub -r 10 /cmd_vel geometry_msgs/Twist "linear:
   x: -0.1
