@@ -1,4 +1,5 @@
-## To drive the jackal autonomously, run 
+# Driving Jackal
+### To drive the jackal autonomously from command line with constant speed and yaw rate, run 
 ```bash
 rostopic pub -r 10 /cmd_vel geometry_msgs/Twist "linear:
   x: -0.1
