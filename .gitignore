@@ -1,0 +1,12 @@
+#docker
+build/
+devel/
+logs/
+.vscode/
+__pycache__/
+
+*.pyc
+#ros
+.catkin_tools/
+
+

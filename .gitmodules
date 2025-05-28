@@ -1,0 +1,4 @@
+[submodule "src/gazebo_ros_pkgs"]
+	path = src/gazebo_ros_pkgs
+	url = https://github.com/ros-simulation/gazebo_ros_pkgs
+	branch = noetic-devel
