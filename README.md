@@ -1,4 +1,4 @@
 ## Add a submodule
-'''bash
+```bash
 git submodule add -b <branch-name> <repo-url> <target-directory>
-'''
+```
